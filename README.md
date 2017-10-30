@@ -1,5 +1,7 @@
 # LineCodes
-Line Codes from _PNG_ images converter
+Line Codes from _PNG_ images converter 
+
+[![forthebadge](http://forthebadge.com/images/badges/no-ragrets.svg)](http://forthebadge.com)
 
 (You need _Jupyter_ with a cool [_PyPNG_](https://github.com/drj11/pypng) pip package installed)
 
