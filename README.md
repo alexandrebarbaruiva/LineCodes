@@ -6,9 +6,9 @@ Line Codes from _PNG_ images converter
 ### Supported line codes
 Currently supported line codes:
 - [x] Manchester code (as per G. E. Thomas)
-- [ ] Manchester code (as per IEEE 802.4 and IEEE 802.3)
-- [ ] NRZ
-- [ ] NRZ _(i)_
+- [x] Manchester code (as per IEEE 802.4 and IEEE 802.3) (- can be obtained by inv manchester(), though has no examples)
+- [x] NRZ
+- [x] NRZ _(i)_ (- can be obtained by inv nrz(), though has no examples)
 - [ ] NRZI
 - [ ] NRZI _(i)_
 - [ ] MLT-3
