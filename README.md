@@ -14,7 +14,7 @@ Currently supported line codes:
 - [ ] NRZI
 - [ ] NRZI _(i)_
 - [ ] MLT-3
-- [ ] 2B1Q
+- [x] 2B1Q - not _really_ supported, it works with one particular example - though; might work in other cases with some tweaking... )
 
 ### License
 The PNG pictures are subject to their own respective licenses and copyrights... They are __not__ mine. All the code is under __MIT__.
